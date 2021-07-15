@@ -1,5 +1,5 @@
 # XpiryTrackr
-Keeping food out the waste and in your belly.
+Keeping food out the waste and in your belly. Have a look at the project [here](https://devpost.com/software/xpirytrackr).
 
 ## Inspiration
 We were thinking about how to reduce food waste, and one of us pointed out that a lot of food waste comes from expired food. We wanted to fix that. 
