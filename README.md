@@ -1,5 +1,8 @@
 # XpiryTrackr
-"Keeping food out the waste and in your belly!" <br><br>
+<p align="center">
+  <i>Keeping food out the waste and in your belly!</i>
+</p>
+
 Have a look at the project [here](https://devpost.com/software/xpirytrackr).
 
 ## Inspiration
