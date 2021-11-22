@@ -1,9 +1,12 @@
 # XpiryTrackr
+
+
 <p align="center">
+  <img src="https://github.com/rohanxminocha/XpiryTrackr-yuHacks2021/blob/master/App/assets/images/app.png">
   <i>Keeping food out the waste and in your belly!</i>
 </p>
 
-Have a look at the project [here](https://devpost.com/software/xpirytrackr).
+Have a look at the project [here](https://devpost.com/software/xpirytrackr)!
 
 ## Inspiration
 We were thinking about how to reduce food waste, and one of us pointed out that a lot of food waste comes from expired food. We wanted to fix that. 
