@@ -1,4 +1,4 @@
-# XpiryTrackr
+# Xpiry Trackr Application
 
 
 <p align="center">
