@@ -28,7 +28,7 @@ We had 24 hours to learn a new language React Native.
 We successfully designed and programmed an app using a language we had minimal experience in just 24 hours. We managed to accomplish this even though we were in different time zones.
 
 ## What we learned
-We learned how to design an app using React Native and project management, time management, and, most importantly, collaboration and communication.
+We learned how to design an app using React Native and project management, time management, and most importantly, collaboration and communication.
 
 ## What's next for XpiryTrackr?
 We plan to flush out the features more and improve inventory management.
