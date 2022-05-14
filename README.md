@@ -1,4 +1,4 @@
-# Xpiry Trackr Application
+# Expiry Tracker Application
 
 
 <p align="center">
